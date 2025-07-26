@@ -76,7 +76,7 @@ Ready to jam with innovative teams as a **DevOps/Cloud Engineer, SRE, or Automat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Muni-vignesh-J)  
-✉️ your.email@example.com
+✉️ munivignesh.j@gmail.com
 
 ---
 
