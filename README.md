@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello! I’m **Muni Vignesh J**, a dedicated IT professional with 2.7 years of experience as a Storage and Backup Administrator. I have strong expertise in Python scripting, Linux administration, and am currently expanding my skills into DevOps to pursue new opportunities in cloud and automation-focused roles.
+Hello! I’m **Muni Vignesh J**, a dedicated IT professional with 2.7 years of experience as a Storage and Backup Administrator. I have strong expertise in Rubrik,Python scripting, Linux administration, and am currently expanding my skills into DevOps to pursue new opportunities in cloud and automation-focused roles.
 
 ---
 
@@ -24,7 +24,7 @@ Hello! I’m **Muni Vignesh J**, a dedicated IT professional with 2.7 years of e
 ## 💼 Experience
 
 **Storage & Backup Administrator**  
-*2.7 years*  
+*2.8 years*  
 - Managed backup and restore operations for critical enterprise environments.
 - Automated routine tasks with Python and Linux shell scripts, improving efficiency and reducing errors.
 - Monitored storage utilization, performed troubleshooting, and ensured data integrity and availability.
@@ -54,8 +54,14 @@ Hello! I’m **Muni Vignesh J**, a dedicated IT professional with 2.7 years of e
 
 ## 📚 Certifications & Learning
 
+- **Certifications:**
+  - AZ-900 Azure fundamentals from Microsoft
+  - Rubrik certified Engineer from Rubrik
+  - Joy of computing python from NPTEL
+
+
 - **Currently Pursuing:**  
-  - DevOps certifications (e.g., AWS Certified DevOps Engineer, Docker, Kubernetes)
+  - DevOps certifications 
   - Ansible for automation
 
 ---
@@ -70,7 +76,7 @@ I am actively seeking opportunities in DevOps, Cloud Engineering, or Automation 
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)  
 - [GitHub](https://github.com/Muni-vignesh-J)  
-- Email: your.email@example.com
+- Email: munivignesh.j@gmail.com
 
 ---
 
